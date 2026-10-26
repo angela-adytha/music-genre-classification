@@ -1,0 +1,12 @@
+# Dataset and generated data
+dataset/
+fusi/
+crop/
+rgb/
+split/
+waveforms/
+grayscale/
+modeling & prediction.ipynb
+
+# macOS
+.DS_Store
